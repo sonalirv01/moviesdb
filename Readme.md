@@ -1,4 +1,4 @@
-# 🚀 User Management API
+# 🚀 MoviesBooking API
 
 A RESTful API built using **Node.js**, **Express**, and **MongoDB** for managing user registration, login, profile access, logout, coupons, and more — featuring secure authentication and session management using UUID and tokens.
 
