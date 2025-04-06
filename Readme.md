@@ -33,8 +33,8 @@ A RESTful API built using **Node.js**, **Express**, and **MongoDB** for managing
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/user-management-api.git
-cd user-management-api
+git clone https://github.com/sonalirv01/moviesdb.git
+
 
 ## install Dependencies
 npm install
